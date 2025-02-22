@@ -1,4 +1,4 @@
-## RF-A02: Criação de Quizz
+# language: pt-BR
 
 Funcionalidade: Criação de Pequenos Quizzes
   Como gestor de conteúdo

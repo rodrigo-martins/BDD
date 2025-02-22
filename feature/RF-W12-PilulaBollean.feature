@@ -1,6 +1,6 @@
 # language: pt-BR
 
-Feature: RF-A06: Criação de Perguntas de Verdadeiro ou Falso
+Funcionalidade: RF-A06: Criação de Perguntas de Verdadeiro ou Falso
     Como gestor de conteúdo 
     eu quero criar perguntas de múltiplas respostas 
     para avaliar o conhecimento de forma diversificada

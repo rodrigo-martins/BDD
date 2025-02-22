@@ -1,6 +1,6 @@
 # language: pt-BR
 
-Feature: RF-A11: Criação de Perguntas de Multiplas Respostas
+Funcionalidade: RF-A11: Criação de Perguntas de Multiplas Respostas
     Como gestor de conteúdo 
     eu quero criar perguntas de múltiplas respostas 
     para avaliar o conhecimento de forma diversificada
