@@ -1,6 +1,6 @@
 # language: pt-BR
 
-Funcionalidade: Consumo Pílula Quiz
+Funcionalidade: Consumo Pílula Verdadeiro ou Falso
     Como profissional de saúde
     quero acessar pílula de parágrafo
     para testar meus conhecimentos.
@@ -8,7 +8,7 @@ Funcionalidade: Consumo Pílula Quiz
     Cenário: Seleção da pílula
         Dado que o profissional de saúde está na tela da pílula
         Quando o profissional de saúde foi redireciona da tela de tópico
-        Então será exibida pergunta da pílula e uma lista com as múltiplas opções
+        Então será exibida pergunta da pílula e uma lista com opções verdadeiras ou falsas
 
     Cenário: profissional de saúde seleciona uma resposta
         Dado que o profissional de saúde está na tela da pílula

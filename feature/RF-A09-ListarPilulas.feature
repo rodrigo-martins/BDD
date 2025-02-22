@@ -1,6 +1,6 @@
 # language: pt-BR
 
-Funcionalidade: Tela Tópico
+Funcionalidade: RF-A09 Tela de pilulas
     Como profissional de saúde
     quero acessar os tópicos disponíveis em minha home page
     para visualizar as pílulas disponíveis dentro dele
