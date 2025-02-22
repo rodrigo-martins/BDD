@@ -1,4 +1,4 @@
-## RF-A01: Criação de Mensagens Motivacionais
+## RF-W01: Criação de Mensagens Motivacionais
 Funcionalidade: Criação de Mensagens Motivacionais
   Como gestor de conteúdo
   Eu quero criar mensagens motivacionais
