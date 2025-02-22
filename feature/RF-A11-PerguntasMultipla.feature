@@ -7,5 +7,8 @@ Feature: RF-A11: Criação de Perguntas de Multiplas Respostas
 
     Cenário: Criação de pergunta de múltiplas respostas
         Dado que estou na seção de criação de quizzes
-        Quando eu gero uma pergunta de múltiplas respostas
-        Então a pergunta é inserida no banco de dados e disponibilizada aos usuários
+        Quando clicar em "gerar" 
+        E o sistema gera uma pergunta de múltiplas respostas
+        Então clicar "inserir" 
+        E a pergunta é inserida no banco de dados 
+        E disponibilizada aos usuários

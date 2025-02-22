@@ -2,9 +2,9 @@
 
 Feature: Criar Tópico na Base de Conhecimento
 
-  Como um Gestor de Conteúdo
-  Eu quero criar um novo tópico dentro de um tema na Base de Conhecimento
-  Para organizar as Pílulas de Conhecimento de forma estruturada
+    Como um Gestor de Conteúdo
+    Eu quero criar um novo tópico dentro de um tema na Base de Conhecimento
+    Para organizar as Pílulas de Conhecimento de forma estruturada
 
   Scenario: Criar um novo tópico com sucesso
     Dado que estou autenticado como Gestor de Conteúdo

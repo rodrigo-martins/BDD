@@ -2,9 +2,9 @@ language: pt
 
 Feature: Revisar conteúdo gerado
 
-Como gestor de conteúdo
-quero revisar as pílulas geradas
-para garantir a qualidade do conteúdo.
+    Como gestor de conteúdo
+    quero revisar as pílulas geradas
+    para garantir a qualidade do conteúdo.
 
 Cenário: Aprovar Pílula
     Dado que o usuário está na tela de revisão
