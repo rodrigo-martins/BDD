@@ -41,7 +41,11 @@ Funcionalidade: Criação de Mensagens Motivacionais
   Cenário: Visualização da seção de mensagens motivacionais sem nenhuma mensagem salva
     Dado que estou logado no Knowtify
     Quando acesso a seção de mensagens motivacionais
-    E não existem mensagens motivacional salvas
-    E seleciono uma mensagem motivacional
-    E clica no botão excluir
-    Então a mensagem deixa de existir na base de dados
+    E não existem mensagens motivacionais salvas
+    Então exibe uma mensagem "Nenhuma mensagem motivacional salva"
+
+  Cenário: Visualização da seção de mensagens motivacionais com uma ou mais salvas
+    Dado que estou logado no Knowtify
+    Quando acesso a seção de mensagens motivacionais
+    E existe uma ou mais mensagens motivacionais salvas
+    Então as mensagens motivacionals existentes devem ser exibidas
