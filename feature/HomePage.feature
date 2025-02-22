@@ -1,7 +1,6 @@
-language: pt-BR
+# language: pt-BR
 
 Feature: HomePage
-
     Como usuário
     quero vizualizar os tópicos disponíveis em minha home page
     para poder selecionar meu próximo aprendizado.
